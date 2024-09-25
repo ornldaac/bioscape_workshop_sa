@@ -13,7 +13,7 @@ banner:
   - url: intro.html
     title: Jupyter Book
     new_window: false
-  image: /bioscape_2024/assets/images/bioscape_bckgrnd.jpg
+  image: /bioscape_workshop_sa/assets/images/bioscape_bckgrnd.jpg
 # The opening session of the event with UTC offset
 event_countdown: "2024-10-07T08:00:00+02:00"
 about:
@@ -37,13 +37,13 @@ sponsors:
   organizations:
   - name: NASA Earthdata
     website: 'https://www.earthdata.nasa.gov/'
-    logo_url: /bioscape_2024/assets/images/earthdata_logo.png
+    logo_url: /bioscape_workshop_sa/assets/images/earthdata_logo.png
   - name: BioSCape
     website: 'https://bioscape.io'
-    logo_url: /bioscape_2024/assets/images/bioscape_logo.png
+    logo_url: /bioscape_workshop_sa/assets/images/bioscape_logo.png
   - name: ORNL DAAC
     website: 'https://daac.ornl.gov/'
-    logo_url: /bioscape_2024/assets/images/ornldaac_logo.png
+    logo_url: /bioscape_workshop_sa/assets/images/ornldaac_logo.png
 footer:
   social:
   - icon: github
