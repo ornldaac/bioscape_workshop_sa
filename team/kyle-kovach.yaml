@@ -1,0 +1,19 @@
+- title: Kyle Kovach
+  avatar: https://avatars.githubusercontent.com/u/23402235?v=4?s=100
+  role: Postdoctoral researcher
+  organizations:
+    - name: University of Wisconsin-Madison
+  bio: Dr. Kyle Kovach is an expert on utilizing drone and in situ hyperspectral remote 
+    sensing for the estimation of structural and biochemical traits in forest ecosystems. 
+    In fact, he has designed and built multiple drones and aerial sensors for 
+    forest applications in the lab. 
+  expertise:
+    - Hyperspectral remote sensing
+    - Drone
+    - Biochemical traits
+  social:
+    - icon: github
+      link: https://github.com/krkovach
+  user_groups:
+    - Virtual-Contributor
+

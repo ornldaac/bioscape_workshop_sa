@@ -1,0 +1,23 @@
+- title: Michele Thornton
+  avatar: https://avatars.githubusercontent.com/u/1659159?v=4?s=100
+  role: Geospatial/Technical Professional
+  organizations:
+    - name: ORNL DAAC
+  bio: I'm an ecologist and geospatial professional currently working at the Oak 
+    Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC); part 
+    of NASA's Earth Observing System Data and Information System and the ORNL 
+    Biological and Environmental Systems Science Directorate. I really enjoy working 
+    with the NASA and ORNL Science Community to both provide data that are useful 
+    in their applications and to help with the long term curation of terrestrial 
+    ecology datasets.  Developing data science tutorials and conducting webinars 
+    and workshops also provides me with a way to be instructive to our user community. 
+  expertise:
+    - GIS
+    - Daymet
+    - Open Science
+  social:
+    - icon: github
+      link: https://github.com/michele-ornl
+  user_groups:
+    - In--Person-Contributor
+

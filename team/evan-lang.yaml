@@ -1,0 +1,14 @@
+- title: Evan Lang
+  avatar: https://avatars.githubusercontent.com/u/122900067?v=4?s=100
+  role: Scientific Software Engineer
+  organizations:
+    - name: NASA GSFC
+  bio: Scientific software engineer at NASA Goddard and Science Systems and Applications Inc.
+  expertise:
+    - Scientific software
+  social:
+    - icon: github
+      link: https://github.com/EvanDLang
+  user_groups:
+    - Computing-Support
+

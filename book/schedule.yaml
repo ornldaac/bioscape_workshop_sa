@@ -1,0 +1,182 @@
+timezone: UTC +2 (South Africa Time)
+tabs:
+- title: Day 1
+  date: Wednesday 09 October
+  contents:
+  - title: COFFEE
+    description: null
+    time: 7:45 - 8:00
+  - title: Welcome
+    description: Introductions and review of agenda
+    time: 8:00 - 8:05
+    leads:
+    - Anabelle Cardoso
+  - title: BioSCape Overview
+    description: BioSCape airborne and field datasets
+    time: 8:05 - 8:35
+    leads:
+    - Anabelle Cardoso
+  - title: NASA Earthdata
+    description: Discovery and access of NASA Earth data
+    time: 8:35 - 8:45
+    leads:
+    - Michele Thornton
+  - title: Earthdata Search
+    description: Tutorial
+    time: 8:45 - 9:05
+    leads:
+    - Michele Thornton
+    - Rupesh Shrestha
+  - title: BioSCape Cloud
+    description: Science Managed Cloud Environment and GitHub
+    time: 9:05 - 9:20
+    leads:
+    - Michele Thornton
+  - title: JupyterHub Basics
+    description: Tutorial
+    time: 9:20 - 10:10
+  - title: BREAK
+    description: null
+    time: 10:10 - 10:40
+  - title: BioSCape Field Data
+    description: Vegetation plots
+    time: 10:40 - 10:55
+    leads:
+    - Anabelle Cardoso
+  - title: BioSCape Airborne Data
+    description: AVIRIS-NG, PRISM, HYTES, LVIS
+    time: 10:55 - 11:20
+    leads:
+    - Anabelle Cardoso
+  - title: Highly dimensional imaging spectroscopy data
+    description: xarray and AVIRIS-NG data cubes
+    time: 11:20 - 11:50
+    leads:
+    - Glenn Moncrieff
+  - title: OPEN Q & A
+    description: null
+    time: 11:50 - 12:10
+  - title: LUNCH
+    description: null
+    time: 12:10 - 13:25
+  - title: AVIRIS-NG and field data
+    description: Tutorial
+    time: 13:25 - 14:25
+    leads:
+    - Michele Thornton
+    - Rupesh Shrestha
+  - title: PRISM data
+    description: Tutorial
+    time: 14:25 - 14:40
+    leads:
+    - Michele Thornton
+    - Rupesh Shrestha
+  - title: BREAK
+    description: null
+    time: 14:40 - 15:10
+  - title: Post-fire vegetation growth with LVIS and GEDI
+    description: LVIS and GEDI full waveform lidar data 
+    time: 15:10 - 15:25
+    leads:
+    - Jasper Slingsby
+  - title: LVIS data
+    description: Tutorial
+    time: 15:25 - 16:25
+    leads:
+    - Rupesh Shrestha
+  - title: OPEN DISCUSSION
+    description: null
+    time: 16:25 - 17:00
+- title: Day 2
+  date: Thursday 10 October
+  contents:
+  - title: COFFEE
+    description: null
+    time: 7:45 - 8:00
+  - title: HyTES and ECOSTRESS TIR data
+    description: What can thermal data tell us about biodiversity
+    time: 8:00 - 8:15
+  - title: HyTES data
+    description: Tutorial
+    time: 8:15 - 9:15
+    leads:
+    - Michele Thornton
+  - title: Ocean color with PRISM and PACE
+    description: What does ocean color tell us about biodiversity 
+    time: 9:15 - 9:30
+    leads:
+    - Erin Hestir
+  - title: Ocean color with PRISM and PACE
+    description: Tutorial 
+    time: 9:30 - 10:30
+    leads:
+    - Erin Hestir
+  - title: BREAK
+    description: null
+    time: 10:30 - 11:00
+  - title: Spectral diversity 
+    description: What is spectral diversity and what can it tell us
+    time: 11:00 - 11:20
+    leads:
+    - Henry Frye
+  - title: Spectral diversity with AVIRIS-NG
+    description: Tutorial
+    time: 11:20 - 12:20
+    leads:
+    - Phil Townsend
+    - Henry Frye
+  - title: LUNCH
+    description: null
+    time: 12:20 - 13:35
+  - title: Mapping aliens with machine learning and AVIRIS-NG
+    description: Complexities of mapping aliens and why imaging spectroscopy helps 
+    time: 13:35 - 13:55
+    leads:
+    - Glenn Moncrieff
+  - title: Mapping aliens with machine learning and AVIRIS-NG
+    description: Tutorial
+    time: 13:55 - 14:55
+    leads:
+    - Glenn Moncrieff
+  - title: OPEN DISCUSSION
+    description: null
+    time: 14:55 - 17:00
+- title: Day 3
+  date: Friday 11 October
+  contents:
+  - title: COFFEE
+    description: null
+    time: 7:45 - 8:00
+  - title: Spectroscopy for plant traits
+    description: What kinds of things does linking field and airborne spectra allow us to understand 
+    time: 8:00 - 8:30
+    leads:
+    - Phil Townsend
+  - title: Spectroscopy for plant traits
+    description: Tutorial
+    time: 8:30 - 9:30
+    leads:
+    - Phil Townsend
+  - title: BREAK
+    description: null
+    time: 9:30 - 9:50
+  - title: Functional trait data
+    description: Demo a PLSR and its outputs  
+    time: 9:50 - 10:10
+    leads:
+    - Phil Townsend
+  - title: Functional trait mapping
+    description: Tutorial 
+    time: 10:10 - 11:10
+    leads:
+    - Phil Townsend
+  - title: OPEN DISCUSSION
+    description: null
+    time: 11:10 - 11:40
+  - title: FEEDBACK
+    description: null
+    time: 11:40 - 12:00
+  - title: LUNCH
+    description: null
+    time: 12:00 - 13:00
+

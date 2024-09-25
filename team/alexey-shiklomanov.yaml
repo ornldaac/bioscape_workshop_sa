@@ -1,0 +1,17 @@
+- title: Alexey Shiklomanov
+  avatar: https://avatars.githubusercontent.com/u/5680221?v=4?s=100
+  role: Research Scientist
+  organizations:
+    - name: NASA
+  bio: Research scientist at NASA Goddard. Trained in remote sensing and vegetation modeling. 
+    Open source evangelist, (Neo)Vim enthusiast, useR.
+  expertise:
+    - remote sensing
+    - vegetation modeling
+    - open source
+  social:
+    - icon: github
+      link: https://github.com/ashiklom
+  user_groups:
+    - Computing-Support
+

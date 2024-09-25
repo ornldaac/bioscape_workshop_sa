@@ -1,0 +1,18 @@
+- title: Jasper Slingsby
+  avatar: https://avatars.githubusercontent.com/u/1164222?v=4?s=100
+  role: Senior Lecturer
+  organizations:
+    - name: University of Cape Town
+  bio: My research is predominantly focused on global change in South African 
+    terrestrial ecosystems and revolves around field studies and spatial data 
+    analyses with the goal of informing policy and management. Most of my 
+    projects focus on fire, water, land cover (including invasive species) and climate change.
+  expertise:
+    - Global change
+    - Plant ecology
+  social:
+    - icon: github
+      link: https://github.com/jslingsby
+  user_groups:
+    - In--Person-Contributor
+

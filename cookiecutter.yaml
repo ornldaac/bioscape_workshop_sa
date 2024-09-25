@@ -1,0 +1,54 @@
+repo_directory: html
+name:  BioSCape Data Skills Workshop
+apply:
+  url: intro.html
+  title: Jupyter Book
+banner:
+  description: BioSCape Data Skills Workshop - From the Field to the Image.
+  start_date: 07 October
+  end_date: 09 October
+  year: 2024
+  location: Capetown, South Africa
+  links:
+  - url: intro.html
+    title: Jupyter Book
+    new_window: false
+  image: /bioscape_2024/assets/images/bioscape_bckgrnd.jpg
+# The opening session of the event with UTC offset
+event_countdown: "2024-10-07T08:00:00+02:00"
+about:
+  description: This workshop will equip participants with the skills to find, subset, 
+    and visualize the various BioSCape field and airborne (imaging spectroscopy and 
+    full-waveform LiDAR) data sets as well as corresponding NASA Earthdata satellite datasets. 
+    Participants will learn data skills through worked examples in terrestrial and aquatic 
+    ecosystems, including wrangling LiDAR data, performing band math calculations, 
+    calculating spectral diversity metrics, machine learning and image classification, 
+    and mapping functional traits. The workshop format is a mix of expert talks and 
+    interactive coding notebooks and will be run through the BioSCape cloud computing 
+    environment.
+  learn_more: https://bioscape.io
+applicant_info: BioSCape Data Skills Workshop will take place in October 7-9, 2024 (in-person).
+team:
+  !include team/team.yaml
+schedule:
+  !include book/schedule.yaml
+sponsors:
+  description: "NASA's Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC), in close collaboration with BioSCape, the South African Environmental Observation Network (SAEON), the University of Wisconsin Madison (Phil Townsend), The Nature Conservancy (Glenn Moncrieff), the University of California Merced (Erin Hestir), the University of Cape Town (Jasper Slingsby), Jet Propulsion Laboratory (Kerry Cawse-Nicholson), and UNESCO."
+  organizations:
+  - name: NASA Earthdata
+    website: 'https://www.earthdata.nasa.gov/'
+    logo_url: /bioscape_2024/assets/images/earthdata_logo.png
+  - name: BioSCape
+    website: 'https://bioscape.io'
+    logo_url: /bioscape_2024/assets/images/bioscape_logo.png
+  - name: ORNL DAAC
+    website: 'https://daac.ornl.gov/'
+    logo_url: /bioscape_2024/assets/images/ornldaac_logo.png
+footer:
+  social:
+  - icon: github
+    link: https://github.com/ornldaac/bioscape_workshop_sa
+_copy_without_render:
+- assets
+_extensions:
+- jinja_markdown.MarkdownExtension

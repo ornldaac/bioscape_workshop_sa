@@ -1,0 +1,38 @@
+# Book settings
+
+title: NASA Carbon Monitoring System (CMS) Data Tutorials
+author: BioSCape
+logo: bioscape.png
+
+# Force re-execution of notebooks on each build.
+execute:
+  execute_notebooks: 'off' # force
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+sphinx:
+  config:
+    bibtex_reference_style: author_year  
+
+# lanch buttons
+launch_buttons:
+  notebook_interface        : jupyterlab
+  binderhub_url             : "https://mybinder.org"
+  jupyterhub_url            : "https://openscapes.2i2c.cloud/"
+  thebe                     : false
+  colab_url                 : "https://colab.research.google.com"
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/ornldaac/bioscape_workshop_sa 
+  branch: main
+
+html:
+  use_issues_button: true
+  use_repository_button: true

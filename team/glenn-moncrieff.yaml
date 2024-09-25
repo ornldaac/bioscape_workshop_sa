@@ -1,0 +1,22 @@
+- title: Glenn Moncrieff
+  avatar: https://avatars.githubusercontent.com/u/8463334?v=4?s=100
+  role: Geospatial Data Scientist
+  organizations:
+    - name: The Nature Conservancy
+  bio: My name is Glenn Moncrieff and I am a Geospatial Data Scientist and ML Engineer based 
+    in Cape Town, South Africa. My background is in geography and ecology, and nowadays I 
+    spend most of my time observing the earth with satellites and machine learning. 
+    I train models and conduct research to analyse environmental data. Most of my effort 
+    is focussed on addressing the biodiversity and climate crises. I am most comfortable 
+    coding in Python and R.
+  expertise:
+    - GIS
+    - Machine Learning
+    - Geography
+    - Ecology
+  social:
+    - icon: github
+      link: https://github.com/gmoncrieff
+  user_groups:
+    - In--Person-Contributor
+

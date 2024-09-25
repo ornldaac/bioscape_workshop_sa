@@ -1,0 +1,29 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Details
+    numbered: false
+    chapters:
+    - file: CoC
+    - file: logistics
+#
+  - caption: Prerequisites
+    numbered: false
+    chapters:
+    - file: prerequisites/earthdatalogin
+    - file: prerequisites/pythonmodules
+    - file: prerequisites/compute
+    - file: prerequisites/git
+#
+  - caption: Tutorials
+    numbered: false
+    chapters:
+    - file: tutorials/index
+#
+  - caption: Resources
+    numbered: false
+    chapters:
+    - file: resources

@@ -1,0 +1,19 @@
+- title: Anabelle Cardoso
+  avatar: https://avatars.githubusercontent.com/u/3899168?v=4?s=100
+  role: Researcher
+  organizations:
+    - name: University at Buffalo
+  bio: Researching African ecosystem dynamics, with a particular interest in ecotones and 
+    fire. Currently the Science Team Manager for NASA's first biodiversity-focussed field 
+    campaign - BioSCape. Working at the University at Buffalo in the lab of Adam Wilson, 
+    as well as with Erin Hestir (University of California, Merced) and Jasper Slingsby 
+    (University of Cape Town). 
+  expertise:
+    - Biodiversity
+    - Ecosystem dynamics
+  social:
+    - icon: github
+      link: https://github.com/anabellecardoso
+  user_groups:
+    - In--Person-Contributor
+

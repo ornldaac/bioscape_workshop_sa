@@ -1,0 +1,24 @@
+- title: Erin Hestir
+  avatar: https://snri.ucmerced.edu/sites/snri.ucmerced.edu/files/erin_hestir.jpg
+  role: Associate professor
+  organizations:
+    - name: University of California Merced
+  bio: Dr. Erin Hestir is an assistant professor in Civil and Environmental Engineering 
+    and a faculty member in the Environmental Systems Graduate Group. Her research 
+    focuses on land and water systems under threat from competing pressures to meet 
+    societal needs for water and food security while sustaining biodiversity and other 
+    ecosystem services such as water quality. She has expertise in geospatial analytics, 
+    hyperspectral and satellite remote sensing and sensor networks for inland and coastal 
+    waters and wetlands. Dr. Hestir also has expertise in the application of 
+    remote sensing for water resources and ecosystem management, and in facilitating 
+    the adoption of remote sensing for environmental reporting. 
+  expertise:
+    - Geospatial analytics
+    - Remote Sensing
+    - Aquatic Ecosystem
+  social:
+    - icon: github
+      link: https://github.com/ehestir
+  user_groups:
+    - In--Person-Contributor
+

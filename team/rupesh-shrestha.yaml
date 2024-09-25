@@ -1,0 +1,21 @@
+- title: Rupesh Shrestha
+  avatar: https://avatars.githubusercontent.com/u/9683694?v=4?s=100
+  role: Remote Sensing Scientist
+  organizations:
+    - name: ORNL DAAC
+  bio: I am a research staff member at Oak Ridge National Laboratory (ORNL), working at 
+    NASA's Distributed Active Archive Center (DAAC). I have an extensive background in 
+    remote sensing applied to vegetation measurements, cyber-infrastructure development, 
+    and data science. I have led the development of several tools, algorithms, and 
+    data services that enable the estimation of earth science observables from 
+    satellite, airborne, and ground-based remote sensing.
+  expertise:
+    - remote sensing
+    - lidar
+    - python
+  social:
+    - icon: github
+      link: https://github.com/rupesh2
+  user_groups:
+    - In--Person-Contributor
+

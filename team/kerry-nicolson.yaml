@@ -1,0 +1,23 @@
+- title: Kerry Cawse-Nicholson
+  avatar: https://science.jpl.nasa.gov/media/images/Cawse2022_headshot.max-255x355.jpg
+  role: Scientist
+  organizations:
+    - name: JPL
+  bio: Dr. Kerry Cawse-Nicholson is an expert in spectroscopic imagery, particularly in 
+    fusing datasets acquired over different parts of the electromagnetic spectrum and
+     in quantifying uncertainty. Kerry works as part of several mission teams, as 
+     the Science Lead for ECOSTRESS, a thermal radiometer mounted on the International 
+     Space Station, and the Deputy Project Scientist for the thermal portion of an 
+     upcoming NASA mission designated to study the Earth's Surface Biology and Geology 
+     (SBG). Kerry studies land surface temperature, wildfires, evapotranspiration, and 
+     biodiversity, and produces a number of publicly available data products. 
+  expertise:
+    - Imaging spectroscopy
+    - Ecostress
+    - SBG
+  social:
+    - icon: linkedin
+      link: https://www.linkedin.com/in/kerry-cawse-nicholson-84014118
+  user_groups:
+    - Virtual-Contributor
+
