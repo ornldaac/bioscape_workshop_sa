@@ -1,2 +1,2 @@
-# bioscape_workshop_sa
-Bioscape Workshop, Capetown, South Africa.
+# BioSCape Data Skills Workshop
+07 October - 09 October  Capetown, South Africa

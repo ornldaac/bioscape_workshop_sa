@@ -1,4 +1,4 @@
-# BioScape Data Workshop
+# BioSCape Data Workshop
 
 
 
