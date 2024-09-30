@@ -22,6 +22,7 @@ parts:
     numbered: false
     chapters:
     - file: tutorials/index
+    - file: PRISM/PRISM_explore.ipynb
 #
   - caption: Resources
     numbered: false
