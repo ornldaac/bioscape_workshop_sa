@@ -10,19 +10,11 @@ parts:
     - file: CoC
     - file: logistics
 #
-  - caption: Prerequisites
-    numbered: false
-    chapters:
-    - file: prerequisites/earthdatalogin
-    - file: prerequisites/pythonmodules
-    - file: prerequisites/compute
-    - file: prerequisites/git
-#
   - caption: Tutorials
     numbered: false
     chapters:
     - file: tutorials/index
-    - file: PRISM/PRISM_explore.ipynb
+    - file: tutorials/PRISM/PRISM_explore.ipynb
 #
   - caption: Resources
     numbered: false
