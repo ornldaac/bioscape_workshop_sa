@@ -15,7 +15,7 @@ banner:
     new_window: false
   image: /bioscape_workshop_sa/assets/images/bioscape_bckgrnd.jpg
 # The opening session of the event with UTC offset
-event_countdown: "2024-10-07T08:00:00+02:00"
+event_countdown: "2024-10-09T08:00:00+02:00"
 about:
   description: This workshop will equip participants with the skills to find, subset, 
     and visualize the various BioSCape field and airborne (imaging spectroscopy and 
