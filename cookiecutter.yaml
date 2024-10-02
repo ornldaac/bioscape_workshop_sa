@@ -5,8 +5,8 @@ apply:
   title: Jupyter Book
 banner:
   description: BioSCape Data Skills Workshop - From the Field to the Image.
-  start_date: 07 October
-  end_date: 09 October
+  start_date: 09 October
+  end_date: 11 October
   year: 2024
   location: Capetown, South Africa
   links:
@@ -27,7 +27,7 @@ about:
     interactive coding notebooks and will be run through the BioSCape cloud computing 
     environment.
   learn_more: https://bioscape.io
-applicant_info: BioSCape Data Skills Workshop will take place in October 7-9, 2024 (in-person).
+applicant_info: BioSCape Data Skills Workshop will take place in October 9-11, 2024 (in-person).
 team:
   !include team/team.yaml
 schedule:
