@@ -20,9 +20,9 @@ We're happy you're here!  This tutorial is for the application of the foliar fun
 2. Import the hyperspectral image tile into the **Data** folder of your newly downloaded and created repository.
 3. Startup an instance of Jupyter Notebook
 4. Edit the code line for the specific hyperspectral image file name.
-4a. _(Optional)_ Edit the code line for the specific coefficient model file name.
-5. Execute the code line by line in Jupyter Notebook to produce the foliar trait map.
-6. Visualize the results
+</br> 4a. _(Optional)_ Edit the code line for the specific coefficient model file name.
+6. Execute the code line by line in Jupyter Notebook to produce the foliar trait map.
+7. Visualize the results
 
 ## What the code is actually doing:
 1. Loads the hyperspectral image you specify
