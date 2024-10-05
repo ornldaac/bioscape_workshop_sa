@@ -21,7 +21,7 @@ We're happy you're here!  This tutorial is for the application of the foliar fun
 3. Startup an instance of Jupyter Notebook
 4. Edit the code line for the specific hyperspectral image file name.
 </br> 4a. _(Optional)_ Edit the code line for the specific coefficient model file name.
-6. Execute the code line by line in Jupyter Notebook to produce the foliar trait map.
+6. Execute the code line-by-line in Jupyter Notebook to produce the foliar trait map.
 7. Visualize the results
 
 ## What the code is actually doing:
