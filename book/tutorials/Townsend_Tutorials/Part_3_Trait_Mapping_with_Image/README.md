@@ -38,7 +38,7 @@ graph LR;
 ```
 
 ## Why this is important:
-Foliar traits are interesting when predicted with spectroscopy to derive specific numeric values, but often visualizing the trait maps can offer insights into spatial patterns.
+Foliar traits are interesting when predicted with spectroscopy to derive specific numeric values, but often, visualizing the trait maps can offer insights into spatial patterns.
 
 ## Credits
 Thank you to the NASA JPL and GSFC teams, as well as the ORNL DAAC!
