@@ -1,15 +1,12 @@
-<h1 align="center">Part 3 - Foliar Trait Mapping</h1>
-<div align="center">
+# Part 3 - Foliar Trait Mapping
+
 by: Kyle Kovach, Zhiwei Ye, Henry Frye, Phil Townsend
-  <br />
-  <br />
-<div align="center">
+
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://brand.wisc.edu/content/uploads/2023/09/vert-w-crest-logo-web-digital-color.png" alt="Logo 1" width="260" height="160";">
-  <img src="https://avatars.githubusercontent.com/u/25855722?s=200&v=4" alt="Logo 2" width="160" height="120";">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/NASA_Jet_Propulsion_Laboratory_%28JPL%29_Logo.webp" alt="Logo 2" width="400" height="120";">
-  
-<div align="left">
+  <img src="https://brand.wisc.edu/content/uploads/2023/09/vert-w-crest-logo-web-digital-color.png" alt="Logo 1" width="260" height="160">
+  <img src="https://avatars.githubusercontent.com/u/25855722?s=200&v=4" alt="Logo 2" width="160" height="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/NASA_Jet_Propulsion_Laboratory_%28JPL%29_Logo.webp" alt="Logo 2" width="400" height="120">
+</div>
 
 ## About This Tutorial
 
