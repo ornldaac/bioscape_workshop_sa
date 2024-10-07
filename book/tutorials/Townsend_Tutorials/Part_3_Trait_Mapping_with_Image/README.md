@@ -12,16 +12,15 @@ by: Kyle Kovach, Zhiwei Ye, Henry Frye, Phil Townsend
 
 We're happy you're here!  This tutorial is for the application of the foliar functional trait model coefficients to hyperspectral imagery.
 
-## What will you do here:
-1. Import this Github repository into your local working environment
-2. Import the hyperspectral image tile into the **Data** folder of your newly downloaded and created repository.
-3. Startup an instance of Jupyter Notebook
-4. Edit the code line for the specific hyperspectral image file name.
-</br> 4a. _(Optional)_ Edit the code line for the specific coefficient model file name.
-6. Execute the code line-by-line in Jupyter Notebook to produce the foliar trait map.
-7. Visualize the results
+## What Will You Do Here:
+1. Import this Github repository into your local working environment.
+2. Startup an instance of Jupyter Notebook
+</br> 3a. _(Optional)_ Edit the code line for the specific hyperspectral image file name for the shared folder on SMCE.
+</br> 3b. _(Optional)_ Edit the code line for the specific coefficient model file name.
+4. Execute the code line-by-line in Jupyter Notebook to produce the foliar trait map.
+5. Visualize the results
 
-## What the code is actually doing:
+## What the Code is Actually Doing:
 1. Loads the hyperspectral image you specify
 2. Brightness normalizes the spectral bands by vector normalizing (we'll explain)
 3. Applies the trait coefficients per band
@@ -34,7 +33,7 @@ graph LR;
     C[Apply Coefficients]-->D[Render Trait Map];
 ```
 
-## Why this is important:
+## Why This is Important:
 Foliar traits are interesting when predicted with spectroscopy to derive specific numeric values, but often, visualizing the trait maps can offer insights into spatial patterns.
 
 ## Credits
