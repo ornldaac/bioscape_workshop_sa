@@ -8,11 +8,6 @@ logo: bioscape.png
 execute:
   execute_notebooks: 'off' # force
 
-# Parse and render settings
-parse:
-  myst_enable_extensions:  
-    - mermaid
-
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
@@ -23,7 +18,9 @@ bibtex_bibfiles:
   - references.bib
 sphinx:
   config:
-    bibtex_reference_style: author_year  
+    bibtex_reference_style: author_year
+  extra_extensions:
+   - mermaid
 
 # lanch buttons
 launch_buttons:
