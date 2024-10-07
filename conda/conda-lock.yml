@@ -7774,6 +7774,45 @@ package:
     sha256: bf80e4c0ff97d5e8e5f6db0831ba60007e820a3a438e8f1afd868aa516d67d6f
   category: main
   optional: false
+- name: sphinxcontrib-mermaid
+  version: 0.9.2
+  manager: conda
+  platform: osx-64
+  dependencies:
+    python: '>=3.9'
+    sphinx: '>=5'
+  url: https://conda.anaconda.org/conda-forge/noarch/sphinxcontrib-mermaid-0.9.2-pyhd8ed1ab_0.conda
+  hash:
+    md5: 54a6a75e5b3989f1d925d8e5674bbbcb
+    sha256: bb02467bb3569406d978112f299e8d8b0832cc495b8bbd5d591858ddbe3a291d
+  category: main
+  optional: false
+- name: sphinxcontrib-mermaid
+  version: 0.9.2
+  manager: conda
+  platform: osx-arm64
+  dependencies:
+    python: '>=3.9'
+    sphinx: '>=5'
+  url: https://conda.anaconda.org/conda-forge/noarch/sphinxcontrib-mermaid-0.9.2-pyhd8ed1ab_0.conda
+  hash:
+    md5: 54a6a75e5b3989f1d925d8e5674bbbcb
+    sha256: bb02467bb3569406d978112f299e8d8b0832cc495b8bbd5d591858ddbe3a291d
+  category: main
+  optional: false
+- name: sphinxcontrib-mermaid
+  version: 0.9.2
+  manager: conda
+  platform: linux-64
+  dependencies:
+    python: '>=3.9'
+    sphinx: '>=5'
+  url: https://conda.anaconda.org/conda-forge/noarch/sphinxcontrib-mermaid-0.9.2-pyhd8ed1ab_0.conda
+  hash:
+    md5: 54a6a75e5b3989f1d925d8e5674bbbcb
+    sha256: bb02467bb3569406d978112f299e8d8b0832cc495b8bbd5d591858ddbe3a291d
+  category: main
+  optional: false
 - name: sqlalchemy
   version: 2.0.30
   manager: conda
