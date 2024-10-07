@@ -21,6 +21,9 @@ parts:
     chapters:
     - file: tutorials/ID_tutorial/ID_explore.ipynb
     - file: tutorials/prism_turbidity/prism_turbidity.ipynb
+    - file: tutorials/EMIT/EMIT_intro.ipynb
+    - file: tutorials/Geopython/Geopython.ipynb
+    - file: Machine_Learning/Invasive_AVIRIS.ipynb
 #
   - caption: Tutorials - Day 3
     numbered: false

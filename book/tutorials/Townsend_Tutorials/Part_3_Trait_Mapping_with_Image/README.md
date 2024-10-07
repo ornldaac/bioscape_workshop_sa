@@ -27,7 +27,7 @@ We're happy you're here!  This tutorial is for the application of the foliar fun
 3. Applies the trait coefficients per band
 4. Renders the image
 
-```mermaid
+```{mermaid}
 flowchart LR
     A[Import Hyperspectral Image]-->B[Vector Normalize Image]
     B[Vector Normalize Image]-->C[Apply Coefficients]
