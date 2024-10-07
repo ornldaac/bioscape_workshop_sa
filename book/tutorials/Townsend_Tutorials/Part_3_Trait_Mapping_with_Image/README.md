@@ -27,7 +27,7 @@ We're happy you're here!  This tutorial is for the application of the foliar fun
 4. Renders the image
 
 ```{mermaid}
-graph LR;
+flowchart LR;
     A[Import Hyperspectral Image]-->B[Vector Normalize Image];
     B[Vector Normalize Image]-->C[Apply Coefficients];
     C[Apply Coefficients]-->D[Render Trait Map];
