@@ -20,6 +20,7 @@ parts:
     numbered: false
     chapters:
     - file: tutorials/ID_tutorial/ID_explore.ipynb
+    - file: tutorials/prism_turbidity/prism_turbidity.ipynb
 #
   - caption: Tutorials - Day 3
     numbered: false
