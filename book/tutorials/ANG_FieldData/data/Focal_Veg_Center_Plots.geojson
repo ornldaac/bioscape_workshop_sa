@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Focal_Veg_Center_Plots",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "BScpPID": "T093", "Region": "CapePoint", "Botanst": "Ross Turner", "BtnsVDT": "2023-05-16", "Name": "CapePoint_93", "BtnstSN": null, "QltyFlg": null, "LctnFlg": null, "TwnsndN": null, "PTPlot1": null, "PTPlot2": null, "PTPlot3": null, "PTPlot4": null, "TwnsndLn": null, "TwnsndLt": null }, "geometry": { "type": "Point", "coordinates": [ 18.412845258320289, -34.249996683313221 ] } },
+{ "type": "Feature", "properties": { "BScpPID": "T081", "Region": "CapePoint", "Botanst": "Ross Turner", "BtnsVDT": "2023-05-24", "Name": "CapePoint_81", "BtnstSN": null, "QltyFlg": null, "LctnFlg": null, "TwnsndN": null, "PTPlot1": null, "PTPlot2": null, "PTPlot3": null, "PTPlot4": null, "TwnsndLn": null, "TwnsndLt": null }, "geometry": { "type": "Point", "coordinates": [ 18.447671093155833, -34.288518109266434 ] } },
+{ "type": "Feature", "properties": { "BScpPID": "T069", "Region": "capepoint", "Botanst": "Doug Euston-Brown", "BtnsVDT": "2023-09-27", "Name": "capepoint_69", "BtnstSN": null, "QltyFlg": null, "LctnFlg": null, "TwnsndN": null, "PTPlot1": null, "PTPlot2": null, "PTPlot3": null, "PTPlot4": null, "TwnsndLn": null, "TwnsndLt": null }, "geometry": { "type": "Point", "coordinates": [ 18.402198252028796, -33.948477450578991 ] } },
+{ "type": "Feature", "properties": { "BScpPID": "T195", "Region": "capepoint", "Botanst": "Doug Euston-Brown", "BtnsVDT": "2023-09-28", "Name": "capepoint_195", "BtnstSN": null, "QltyFlg": null, "LctnFlg": null, "TwnsndN": null, "PTPlot1": "pt1399", "PTPlot2": null, "PTPlot3": null, "PTPlot4": null, "TwnsndLn": null, "TwnsndLt": null }, "geometry": { "type": "Point", "coordinates": [ 18.411037768249713, -33.962942150331166 ] } },
+{ "type": "Feature", "properties": { "BScpPID": "T201", "Region": "capepoint", "Botanst": "Doug Euston-Brown", "BtnsVDT": "2023-09-28", "Name": "capepoint_201", "BtnstSN": null, "QltyFlg": null, "LctnFlg": null, "TwnsndN": null, "PTPlot1": null, "PTPlot2": null, "PTPlot3": null, "PTPlot4": null, "TwnsndLn": null, "TwnsndLt": null }, "geometry": { "type": "Point", "coordinates": [ 18.406135163690294, -33.959346479159976 ] } }
+]
+}
