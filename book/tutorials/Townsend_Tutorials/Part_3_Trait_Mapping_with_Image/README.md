@@ -15,8 +15,8 @@ We're happy you're here!  This tutorial is for the application of the foliar fun
 ## What Will You Do Here:
 1. Import this Github repository into your local working environment.
 2. Startup an instance of Jupyter Notebook
-</br> 3a. _(Optional)_ Edit the code line for the specific hyperspectral image file name for the shared folder on SMCE.
-</br> 3b. _(Optional)_ Edit the code line for the specific coefficient model file name.
+3a. _(Optional)_ Edit the code line for the specific hyperspectral image file name for the shared folder on SMCE.
+3b. _(Optional)_ Edit the code line for the specific coefficient model file name.
 4. Execute the code line-by-line in Jupyter Notebook to produce the foliar trait map.
 5. Visualize the results
 
