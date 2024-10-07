@@ -10,11 +10,23 @@ parts:
     - file: CoC
     - file: logistics
 #
-  - caption: Tutorials
+  - caption: Tutorials - Day 1
     numbered: false
     chapters:
-    - file: tutorials/index
+    - file: tutorials/NotebookBasics/NotebookBasics.ipynb
     - file: tutorials/PRISM/PRISM_explore.ipynb
+#
+  - caption: Tutorials - Day 2
+    numbered: false
+    chapters:
+    - file: tutorials/ID_tutorial/ID_explore.ipynb
+#
+  - caption: Tutorials - Day 3
+    numbered: false
+    chapters:
+    - file: tutorials/Townsend_Tutorials/Part_1_Vegetation_Data/Code/TownsendCodePart1.ipynb
+    - file: tutorials/Townsend_Tutorials/Part_2_Obs_Pred/TownsendCodePart2.ipynb
+    - file: tutorials/Townsend_Tutorials/Part_3_Trait_Mapping_with_Image/apply_traits_to_image.ipynb
 #
   - caption: Resources
     numbered: false
