@@ -4,12 +4,6 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Details
-    numbered: false
-    chapters:
-    - file: CoC
-    - file: logistics
-#
   - caption: Tutorials - Day 1
     numbered: false
     chapters:
@@ -23,7 +17,7 @@ parts:
     - file: tutorials/prism_turbidity/prism_turbidity.ipynb
     - file: tutorials/EMIT/EMIT_intro.ipynb
     - file: tutorials/Geopython/Geopython.ipynb
-    - file: Machine_Learning/Invasive_AVIRIS.ipynb
+    - file: tutorials/Machine_Learning/Invasive_AVIRIS.ipynb
 #
   - caption: Tutorials - Day 3
     numbered: false
