@@ -5,26 +5,28 @@ format: jb-book
 root: intro
 parts:
   - caption: Tutorials - Day 1
-    numbered: false
+    numbered: true
     chapters:
     - file: tutorials/NotebookBasics/NotebookBasics.ipynb
-    - file: tutorials/PRISM/PRISM_explore.ipynb
-    - file: tutorials/ANG_FieldData/ConcurrentEMIT.ipynb
     - file: tutorials/ANG_FieldData/Field_AVNG_Explore.ipynb
     - file: tutorials/ANG_FieldData/plotspectra_2csv_3x3.ipynb
+    - file: tutorials/PRISM/PRISM_explore.ipynb
+    - file: tutorials/ANG_FieldData/ConcurrentEMIT.ipynb
     - file: tutorials/LVIS/lvis.ipynb
 #
   - caption: Tutorials - Day 2
-    numbered: false
+    numbered: true
     chapters:
     - file: tutorials/ID_tutorial/ID_explore.ipynb
     - file: tutorials/prism_turbidity/prism_turbidity.ipynb
     - file: tutorials/EMIT/EMIT_intro.ipynb
+    - file: tutorials/TIR_HyTES_ECOSTRESS/ECOSTRESS_concurrent.ipynb
+    - file: tutorials/TIR_HyTES_ECOSTRESS/HyTES_explore.ipynb
     - file: tutorials/Geopython/Geopython.ipynb
     - file: tutorials/Machine_Learning/Invasive_AVIRIS.ipynb
 #
   - caption: Tutorials - Day 3
-    numbered: false
+    numbered: true
     chapters:
     - file: tutorials/Townsend_Tutorials/Part_1_Vegetation_Data/Code/TownsendCodePart1.ipynb
     - file: tutorials/Townsend_Tutorials/Part_2_Obs_Pred/TownsendCodePart2.ipynb

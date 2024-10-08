@@ -26,7 +26,7 @@ sphinx:
 launch_buttons:
   notebook_interface        : jupyterlab
   binderhub_url             : "https://mybinder.org"
-  jupyterhub_url            : "https://openscapes.2i2c.cloud/"
+  jupyterhub_url            : "https://cloud.bioscape.io/"
   thebe                     : false
   colab_url                 : "https://colab.research.google.com"
 
