@@ -9,6 +9,10 @@ parts:
     chapters:
     - file: tutorials/NotebookBasics/NotebookBasics.ipynb
     - file: tutorials/PRISM/PRISM_explore.ipynb
+    - file: tutorials/ANG_FieldData/ConcurrentEMIT.ipynb
+    - file: tutorials/ANG_FieldData/Field_AVNG_Explore.ipynb
+    - file: tutorials/ANG_FieldData/plotspectra_2csv_3x3.ipynb
+    - file: tutorials/LVIS/lvis.ipynb
 #
   - caption: Tutorials - Day 2
     numbered: false
