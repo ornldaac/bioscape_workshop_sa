@@ -16,6 +16,7 @@ dependencies:
   - pip
   - python
   - sphinxcontrib-bibtex
+  - sphinxcontrib-mermaid
   # For building the Splashpage
   - cookiecutter
   # Dependencies of jinja-markdown:

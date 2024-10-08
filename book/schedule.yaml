@@ -3,180 +3,197 @@ tabs:
 - title: Day 1
   date: Wednesday 09 October
   contents:
-  - title: COFFEE
+  - title: REGISTRATION, COFFEE
     description: null
-    time: 7:45 - 8:00
+    time: 8:00 - 8:30
   - title: Welcome
     description: Introductions and review of agenda
-    time: 8:00 - 8:05
+    time: 8:30 - 8:35
     leads:
     - Anabelle Cardoso
   - title: BioSCape Overview
     description: BioSCape airborne and field datasets
-    time: 8:05 - 8:35
+    time: 8:35 - 8:55
     leads:
     - Anabelle Cardoso
   - title: NASA Earthdata
     description: Discovery and access of NASA Earth data
-    time: 8:35 - 8:45
+    time: 8:55 - 9:05
     leads:
     - Michele Thornton
   - title: Earthdata Search
     description: Tutorial
-    time: 8:45 - 9:05
+    time: 9:05 - 9:25
     leads:
     - Michele Thornton
-    - Rupesh Shrestha
   - title: BioSCape Cloud
     description: Science Managed Cloud Environment and GitHub
-    time: 9:05 - 9:20
+    time: 9:25 - 9:40
     leads:
     - Michele Thornton
   - title: JupyterHub Basics
     description: Tutorial
-    time: 9:20 - 10:10
+    time: 9:40 - 10:30
+    leads:
+    - Michele Thornton
   - title: BREAK
     description: null
-    time: 10:10 - 10:40
-  - title: BioSCape Field Data
-    description: Vegetation plots
-    time: 10:40 - 10:55
-    leads:
-    - Anabelle Cardoso
+    time: 10:30 - 11:00
   - title: BioSCape Airborne Data
-    description: AVIRIS-NG, PRISM, HYTES, LVIS
-    time: 10:55 - 11:20
+    description: Airborne instruments and their satellite analogues
+    time: 11:00 - 11:25
     leads:
     - Anabelle Cardoso
   - title: Highly dimensional imaging spectroscopy data
     description: xarray and AVIRIS-NG data cubes
-    time: 11:20 - 11:50
+    time: 11:25 - 11:55
     leads:
     - Glenn Moncrieff
-  - title: OPEN Q & A
+  - title: Q & A
     description: null
-    time: 11:50 - 12:10
+    time: 11:55 - 12:15
   - title: LUNCH
     description: null
-    time: 12:10 - 13:25
+    time: 12:15 - 13:15
+  - title: BioSCape field data
+    description: Vegetation plots
+    time: 13:15 - 13:30
+    leads:
+    - Anabelle Cardoso
   - title: AVIRIS-NG and field data
     description: Tutorial
-    time: 13:25 - 14:25
+    time: 13:30 - 14:30
     leads:
     - Michele Thornton
     - Rupesh Shrestha
   - title: PRISM data
     description: Tutorial
-    time: 14:25 - 14:40
+    time: 14:30 - 14:45
     leads:
     - Michele Thornton
-    - Rupesh Shrestha
   - title: BREAK
     description: null
-    time: 14:40 - 15:10
+    time: 14:45 - 15:15
   - title: Post-fire vegetation growth with LVIS and GEDI
     description: LVIS and GEDI full waveform lidar data 
-    time: 15:10 - 15:25
+    time: 15:15 - 15:30
     leads:
     - Jasper Slingsby
-  - title: LVIS data
+  - title: LVIS and GEDI data
     description: Tutorial
-    time: 15:25 - 16:25
+    time: 15:30 - 16:30
     leads:
     - Rupesh Shrestha
-  - title: OPEN DISCUSSION
+  - title: Q & A
     description: null
-    time: 16:25 - 17:00
+    time: 16:30 - 17:00
 - title: Day 2
   date: Thursday 10 October
   contents:
   - title: COFFEE
     description: null
-    time: 7:45 - 8:00
-  - title: HyTES and ECOSTRESS TIR data
+    time: 8:00 - 8:30
+  - title: HyTES and ECOSTRESS data
     description: What can thermal data tell us about biodiversity
-    time: 8:00 - 8:15
-  - title: HyTES data
-    description: Tutorial
-    time: 8:15 - 9:15
-    leads:
-    - Michele Thornton
-  - title: Ocean color with PRISM and PACE
-    description: What does ocean color tell us about biodiversity 
-    time: 9:15 - 9:30
+    time: 8:30 - 8:45
     leads:
     - Erin Hestir
-  - title: Ocean color with PRISM and PACE
-    description: Tutorial 
-    time: 9:30 - 10:30
+    - Kerry Cawse-Nicholson
+  - title: HyTES and ECOSTRESS data
+    description: Tutorial
+    time: 8:45 - 9:45
+    leads:
+    - Michele Thornton
+    - Rupesh Shrestha
+  - title: PRISM, PACE and ECOSTRESS for acquatic biodiversity
+    description: turbidity, chlorophyll, ocean color and sea surface temperature
+    time: 9:45 - 10:00
     leads:
     - Erin Hestir
   - title: BREAK
     description: null
-    time: 10:30 - 11:00
-  - title: Spectral diversity 
+    time: 10:00 - 10:30
+  - title: PRISM and ECOSTRESS for aquatic biodiversity
+    description: Tutorial 
+    time: 10:30 - 11:30
+    leads:
+    - Erin Hestir
+  - title: AVIRIS-NG for Spectral diversity 
     description: What is spectral diversity and what can it tell us
-    time: 11:00 - 11:20
+    time: 11:30 - 11:50
     leads:
     - Henry Frye
-  - title: Spectral diversity with AVIRIS-NG
+  - title: AVIRIS-NG for Spectral diversity
     description: Tutorial
-    time: 11:20 - 12:20
+    time: 11:50 - 12:50
     leads:
     - Phil Townsend
     - Henry Frye
+    - Kerry Cawse-Nicholson
   - title: LUNCH
     description: null
-    time: 12:20 - 13:35
-  - title: Mapping aliens with machine learning and AVIRIS-NG
-    description: Complexities of mapping aliens and why imaging spectroscopy helps 
-    time: 13:35 - 13:55
+    time: 12:50 - 13:50
+  - title: AVIRIS-NG and EMIT for Mapping Aliens
+    description: Machine learning approaches for mapping invasive plants 
+    time: 13:50 - 14:10
     leads:
     - Glenn Moncrieff
-  - title: Mapping aliens with machine learning and AVIRIS-NG
+  - title: EMIT for Mapping Aliens
     description: Tutorial
-    time: 13:55 - 14:55
+    time: 14:10 - 15:00
     leads:
     - Glenn Moncrieff
-  - title: OPEN DISCUSSION
+  - title: BREAK
     description: null
-    time: 14:55 - 17:00
+    time: 15:00 - 15:30
+  - title: AVIRIS-NG for mapping alien trees
+    description: Tutorial
+    time: 15:30 - 16:30
+    leads:
+    - Glenn Moncrieff
+  - title: Q & A
+    description: null
+    time: 16:30 - 17:00
 - title: Day 3
   date: Friday 11 October
   contents:
   - title: COFFEE
     description: null
-    time: 7:45 - 8:00
-  - title: Spectroscopy for plant traits
-    description: What kinds of things does linking field and airborne spectra allow us to understand 
     time: 8:00 - 8:30
+  - title: AVIRIS-NG and field data to explore functional traits
+    description: Spectroscopy for plant trait 
+    time: 8:30 - 9:00
     leads:
     - Phil Townsend
-  - title: Spectroscopy for plant traits
+    - Henry Frye
+  - title: AVIRIS-NG and field data to explore functional traits
     description: Tutorial
-    time: 8:30 - 9:30
+    time: 9:00 - 10:00
     leads:
+    - Henry Frye
     - Phil Townsend
-  - title: BREAK
+  - title: GROUP PHOTO, COFFEE
     description: null
-    time: 9:30 - 9:50
-  - title: Functional trait data
+    time: 10:00 - 10:30
+  - title: Partial Least Squares Regression (PLSR)
     description: Demo a PLSR and its outputs  
-    time: 9:50 - 10:10
+    time: 10:30 - 10:50
     leads:
     - Phil Townsend
-  - title: Functional trait mapping
+    - Henry Frye
+  - title: Mapping functional trait using PLSR
     description: Tutorial 
-    time: 10:10 - 11:10
+    time: 10:30 - 11:50
     leads:
+    - Henry Frye
     - Phil Townsend
-  - title: OPEN DISCUSSION
+  - title: Q & A
     description: null
-    time: 11:10 - 11:40
+    time: 11:50 - 12:20
   - title: FEEDBACK
     description: null
-    time: 11:40 - 12:00
+    time: 12:20 - 12:40
   - title: LUNCH
     description: null
-    time: 12:00 - 13:00
+    time: 12:40 - 13:30
 
