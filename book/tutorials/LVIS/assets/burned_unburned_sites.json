@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "burned_unburned_sites",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Milkwood forest", "description": "unburned"}, "geometry": { "type": "Point", "coordinates": [ 18.41626734, -34.31636015 ] } },
+{ "type": "Feature", "properties": { "Name": "Tall proteoid fynbos on marine sands", "description": "unburned"}, "geometry": { "type": "Point", "coordinates": [ 18.43615289, -34.30709861 ] } },
+{ "type": "Feature", "properties": { "Name": "Low wet restioid fynbos", "description": "unburned"}, "geometry": { "type": "Point", "coordinates": [ 18.43209753, -34.31315347 ] } },
+{ "type": "Feature", "properties": { "Name": "Low wet restioid fynbos", "description": "burned"}, "geometry": { "type": "Point", "coordinates": [ 18.42819738, -34.31068821 ] } },
+{ "type": "Feature", "properties": { "Name": "Dry fynbos on ridge with sparse tall Proteaceae", "description": "burned"}, "geometry": { "type": "Point", "coordinates": [ 18.43254302, -34.31609066 ] } },
+{ "type": "Feature", "properties": { "Name": "Dry fynbos on ridge with sparse tall Proteaceae", "description": "unburned"}, "geometry": { "type": "Point", "coordinates": [ 18.42938072, -34.31609784 ] } }
+]
+}
