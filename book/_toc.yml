@@ -19,6 +19,7 @@ parts:
     chapters:
     - file: tutorials/ID_tutorial/ID_explore.ipynb
     - file: tutorials/prism_turbidity/prism_turbidity.ipynb
+    - file: tutorials/prism_gordonsbay/prism_gordonsbay.ipynb
     - file: tutorials/EMIT/EMIT_intro.ipynb
     - file: tutorials/TIR_HyTES_ECOSTRESS/ECOSTRESS_concurrent.ipynb
     - file: tutorials/TIR_HyTES_ECOSTRESS/HyTES_explore.ipynb
