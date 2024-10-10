@@ -33,6 +33,7 @@ launch_buttons:
 # Information about where the book exists on the web
 repository:
   url: https://github.com/ornldaac/bioscape_workshop_sa 
+  path_to_book: book
   branch: main
 
 html:
