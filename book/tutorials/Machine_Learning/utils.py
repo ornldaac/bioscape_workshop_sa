@@ -1,5 +1,3 @@
-
-#our functions
 #processes a multi-file datase
 #to extract the first valid reflectance measurement for each geometry. 
 #iterates through the data, identifying the first non-null entry for each geometry across all files, 
