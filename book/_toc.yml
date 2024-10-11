@@ -4,6 +4,11 @@
 format: jb-book
 root: intro
 parts:
+  - caption: Prerequisites
+    numbered: false
+    chapters:
+    - file: prerequisites/edl
+    - file: prerequisites/compute
   - caption: Tutorials - Day 1
     numbered: true
     chapters:
