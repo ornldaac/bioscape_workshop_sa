@@ -19,10 +19,12 @@ bibtex_bibfiles:
 sphinx:
   config:
     bibtex_reference_style: author_year
+    # suppress mime type warnings for vnd.holoviews
+    suppress_warnings: ["mystnb.unknown_mime_type"]
   extra_extensions:
    - sphinxcontrib.mermaid
 
-# lanch buttons
+# launch buttons
 launch_buttons:
   notebook_interface        : jupyterlab
   # binderhub_url             : "https://mybinder.org"
