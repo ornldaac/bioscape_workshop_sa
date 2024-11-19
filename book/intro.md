@@ -18,6 +18,26 @@ This workshop will equip participants with the skills to find, subset, and visua
 
 **Audience**: This training is primarily intended for government natural resource management agency representatives and field technicians in South Africa, as well as local academics and students, especially those connected to the BioSCape Team.
 
+## Presentations
+- [Workshop Agenda](pdfs/0_Agenda.pdf)
+### Presentations - Day 1
+- [Welcome](pdfs/1_Welcome.pdf)
+- [BioSCape Overview](pdfs/2_Overview.pdf)
+- [NASA Earthdata](pdfs/3_Earthdata.pdf)
+- [Earthdata Search](pdfs/4_EarthdataSearch.pdf)
+- [The BioSCape Cloud](pdfs/5_BioscapeCloud.pdf)
+- [JupyterHub Basics](pdfs/6_JupyterHubBasics.pdf)
+- [BioSCape Airborne Data](pdfs/7_AirborneData.pdf)
+- [BioSCape Field Data](pdfs/8_FieldData.pdf)
+- [LVIS and GEDI for post-fire vegetation growth](pdfs/9_LVIS.pdf)
+### Presentations - Day 2
+- [HyTES and ECOSTRESS data](pdfs/10_Hytes.pdf)
+- [PRISM, PACE, and ECOSTRESS for aquatic biodiversity](pdfs/11_PRISM.pdf)
+- [AVIRIS-NG for spectral diversity](pdfs/12_SpectralDiversity.pdf)
+- [AVIRIS-NG for mapping alien trees](pdfs/13_AlienMapping.pdf)
+### Presentation - Day 3
+- [AVIRIS-NG and field data to explore functional traits](pdfs/14_FunctionalTraits.pdf)
+
 ## Tutorials
 ```{tableofcontents}
 ```
