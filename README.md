@@ -3,3 +3,5 @@
 
 - Workshop website: https://ornldaac.github.io/bioscape_workshop_sa/
 - Jupyter Book: https://ornldaac.github.io/bioscape_workshop_sa/intro.html
+
+[![DOI](https://zenodo.org/badge/855193701.svg)](https://doi.org/10.5281/zenodo.14198989)
